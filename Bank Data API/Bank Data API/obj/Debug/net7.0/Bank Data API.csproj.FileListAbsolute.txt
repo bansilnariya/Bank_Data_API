@@ -1,0 +1,92 @@
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\appsettings.Development.json
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\appsettings.json
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.exe
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.deps.json
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.runtimeconfig.json
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.pdb
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\DnsClient.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\SharpCompress.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Snappier.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\ZstdSharp.dll
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\monog db\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.AssemblyReference.cache
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.GeneratedMSBuildEditorConfig.editorconfig
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.AssemblyInfoInputs.cache
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.AssemblyInfo.cs
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.CoreCompileInputs.cache
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.MvcApplicationPartsAssemblyInfo.cs
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.MvcApplicationPartsAssemblyInfo.cache
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.Bank Data API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.build.Bank Data API.props
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bank Data API.props
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bank Data API.props
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.build.json
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.development.json
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\scopedcss\bundle\Bank Data API.styles.css
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.CopyComplete
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.dll
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\refint\Bank Data API.dll
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.pdb
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.genruntimeconfig.cache
+D:\monog db\Bank Data API\Bank Data API\obj\Debug\net7.0\ref\Bank Data API.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\appsettings.Development.json
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\appsettings.json
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.exe
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.deps.json
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.runtimeconfig.json
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Bank Data API.pdb
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\DnsClient.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\SharpCompress.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Snappier.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\ZstdSharp.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\MONGO DB API\Bank Data API\Bank Data API\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.AssemblyReference.cache
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.AssemblyInfoInputs.cache
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.AssemblyInfo.cs
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.CoreCompileInputs.cache
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.MvcApplicationPartsAssemblyInfo.cs
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.MvcApplicationPartsAssemblyInfo.cache
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.Bank Data API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.build.Bank Data API.props
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bank Data API.props
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bank Data API.props
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.build.json
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\staticwebassets.development.json
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\scopedcss\bundle\Bank Data API.styles.css
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.csproj.CopyComplete
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\refint\Bank Data API.dll
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.pdb
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\Bank Data API.genruntimeconfig.cache
+D:\MONGO DB API\Bank Data API\Bank Data API\obj\Debug\net7.0\ref\Bank Data API.dll
